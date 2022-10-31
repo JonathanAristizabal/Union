@@ -1,0 +1,34 @@
+body{
+    background-color: white;
+         background-image:url(android2.gif);
+         background-size: 1360px;
+         background-repeat: no-repeat;
+}
+h1{
+    font-size: 30px;
+    background-color: rgb(54, 54, 54);
+    color: white;
+}
+h4{
+    font-size: 25px;
+    color: rgb(64, 175, 250);
+}
+p{
+    font-size: 45px;
+    color: rgb(129, 0, 161);
+}
+h3{
+    font-size: 130px;
+    color: rgb(185, 0, 0);
+}
+#color-rojo{
+    font-size: 35px;
+    color:gold;
+}
+.viernes{
+    font-size: 30px;
+    color: rgb(100, 100, 100);
+}
+.autor{
+    color: rgb(10, 10, 10);
+}
